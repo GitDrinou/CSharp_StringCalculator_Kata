@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcRF04e63GIp/s6GIYoibOfX6BnR0PujeYsOfBvJPzMIuBWJAJXQ3vYiSVU5ZRG93pTI7HKbetGVsYmGi5KO9g==",
+  "success": true,
+  "projectFilePath": "/Users/sandrine.brival/Library/CloudStorage/OneDrive-Accenture/Learning/Back/CSharp/StringCalculator_Kata/StringCalculatorTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/sandrine.brival/.nuget/packages/microsoft.codecoverage/17.10.0/microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/microsoft.net.test.sdk/17.10.0/microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/microsoft.testplatform.objectmodel/17.10.0/microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/microsoft.testplatform.testhost/17.10.0/microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/nfluent/3.0.4/nfluent.3.0.4.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/sandrine.brival/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
